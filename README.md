@@ -45,10 +45,37 @@ We will take inspiration from successful open hackathons such as the [IGE-Jaxath
 
 ## ⚙️ Practical Information
 
-- **Prerequisites:** basic Python and machine learning familiarity  
-- **Environment:** conda or mamba setup, preconfigured via provided `environment.yml`  
-- **Code & materials:** shared through this repository and GitHub Classroom  
+- **Prerequisites:** basic Python and machine learning familiarity
+- **Environment:** see Installation section below
+- **Code & materials:** shared through this repository and GitHub Classroom
 - **Outputs:** participants are encouraged to share notebooks, results, and ideas for follow-up collaborations.
+
+---
+
+## 🚀 Installation
+
+### Recommended: Using `uv`
+
+We recommend using [**uv**](https://github.com/astral-sh/uv) — a fast, modern Python
+package manager. Install it following the instructions on their site, then run:
+
+```bash
+uv venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+uv pip install -e .
+```
+
+### Alternative: Using conda or mamba
+
+If you prefer conda/mamba, create an environment and install via pip:
+
+```bash
+conda create -n sbi-hackathon python=3.10
+conda activate sbi-hackathon
+pip install -e .
+```
+
+Or use `mamba` as a drop-in replacement for faster installation.
 
 ---
 
