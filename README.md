@@ -43,33 +43,33 @@ We will take inspiration from successful open hackathons such as the [IGE-Jaxath
 
 **-- Wednesday 21-Janvier 2026**
 08h30-09h00 : Welcome
-09h00-10h30 : <span style="color:green; font-weight:bold">(Tutorial)</span> Session 1
+09h00-10h30 : (Tutorial) Session 1
 10h30-10h45 : Coffee break
-10h45-12h00 : <span style="color:green; font-weight:bold">(Tutorial)</span> Session 2
+10h45-12h00 : (Tutorial) Session 2
 12h00-13h30 : Lunch
-13h30-15h00 : <span style="color:green; font-weight:bold">(Tutorial)</span> Session 3
+13h30-15h00 : (Tutorial) Session 3
 15h00-15h30 : Goûter
-15h30-17h00 : <span style="color:green; font-weight:bold">(Tutorial)</span> Session 4
+15h30-17h00 : (Tutorial) Session 4
 
 **-- Thursday  22-Janvier 2026**
 08h30-09h00 : Welcome
-09h00-10h30 : <span style="color:green; font-weight:bold">(Tutorial)</span> Session 5
+09h00-10h30 : (Tutorial) Session 5
 10h30-10h45 : Coffee break
-10h45-12h00 : <span style="color:green; font-weight:bold">(Tutorial)</span> Session 6
+10h45-12h00 : (Tutorial) Session 6
 12h00-13h30 : Lunch
-13h30-15h00 : <span style="color:blue; font-weight:bold">(Hackathon)</span>
+13h30-15h00 : (Hackathon) Session 7
 15h00-15h30 : Goûter
-15h30-17h00 : <span style="color:blue; font-weight:bold">(Hackathon)</span>
+15h30-17h00 : (Hackathon) Session 8
 
 **-- Friday  23-Janvier 2026**
 08h30-09h00 : Welcome
-09h00-10h30 : <span style="color:blue; font-weight:bold">(Hackathon)</span>
+09h00-10h30 : (Hackathon) Session 9
 10h30-10h45 : Coffee break
-10h45-12h00 : <span style="color:blue; font-weight:bold">(Hackathon)</span>
+10h45-12h00 : (Hackathon) Session 10
 12h00-13h30 : Lunch
-13h30-15h00 : <span style="color:blue; font-weight:bold">(Hackathon)</span>
+13h30-15h00 : (Hackathon) Session 11
 15h00-15h30 : Goûter
-15h30-17h00 : <span style="color:blue; font-weight:bold">(Hackathon)</span>
+15h30-17h00 : (Hackathon) Session 12
 
 ---
 
