@@ -2,11 +2,11 @@
 
 Welcome to the **Simulation-Based Inference (SBI) Hackathon in Grenoble** — a three-day, hands-on event dedicated to exploring modern Bayesian inference tools for complex scientific simulators.
 
-**📅 Dates:** 21-23 January 2026  
+**📅 Dates:** 21-23 January 2026
 
 **📍 Location:** IMAG building, Université Grenoble Alpes campus, Grenoble, France
 
-**🧩 Duration:** 3 days (1.5 days tutorial + 1.5 days hackathon)  
+**🧩 Duration:** 3 days (1.5 days tutorial + 1.5 days hackathon)
 
 **👥 Target audience:** researchers, students, and practitioners interested in parameter estimation, model calibration, or uncertainty quantification in physical, biological, or engineering simulations.
 
@@ -23,18 +23,18 @@ This hackathon aims to lower the barrier for new users by combining a **guided t
 ## 📚 Structure
 
 ### **Day 1–2 (Tutorial, 1.5 days)**
-Led by **[Jan Teusen](https://github.com/janfb)**. Topics include:
-- Generative modeling and the SBI framework  
-- Neural posterior estimation (NPE), likelihood and ratio estimation  
-- Hands-on notebooks using the [`sbi`](https://github.com/mackelab/sbi) Python package  
+Led by **[Jan Teusen](https://github.com/janfb)** and [Daniel Gedon](https://github.com/dgedon). Topics include:
+- Generative modeling and the SBI framework
+- Neural posterior estimation (NPE), likelihood and ratio estimation
+- Hands-on notebooks using the [`sbi`](https://github.com/mackelab/sbi) Python package ([documentation](https://sbi.readthedocs.io/en/latest/))
 - Applying SBI to toy and benchmark simulators
 
 ### **Day 2–3 (Hackathon, 1.5 days)**
-Participants form small teams around real or toy simulators (your own, or provided examples).  
+Participants form small teams around real or toy simulators (your own, or provided examples).
 Possible directions:
-- Adapting SBI to your research simulator  
-- Benchmarking different inference strategies  
-- Building reproducible pipelines for calibration or uncertainty quantification  
+- Adapting SBI to your research simulator
+- Benchmarking different inference strategies
+- Building reproducible pipelines for calibration or uncertainty quantification
 - Sharing and discussing results at the closing session
 
 We will take inspiration from successful open hackathons such as the [IGE-Jaxathon 2025](https://github.com/Diff4Earth/ige-jaxathon-2025), emphasizing collaboration, openness, and applied research.
