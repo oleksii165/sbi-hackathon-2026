@@ -7,6 +7,7 @@ dependencies = [
     "sbi",
     "jupyter",
     "ipywidgets",
+    "notebook>=6.4.12",
 ]
 
 [build-system]
