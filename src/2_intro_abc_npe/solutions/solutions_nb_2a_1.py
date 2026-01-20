@@ -12,6 +12,10 @@ def rejection_abc(num_simulations: int, epsilon: float) -> tuple[Tensor, Tensor]
         
         if distance(x, x_o) < epsilon:
             accepted.append(theta)
+
+        all_theta.append(theta)
+
+    if not len(accepted):
+        raise ValueError("No parameters were accepted, epsilon likely too small")
     
-    print(f"Acceptance rate: {len(accepted)}/{num_simulations} = {100*len(accepted)/num_simulations:.1f}%")
     return torch.cat(accepted), torch.cat(all_theta)
